@@ -108,7 +108,7 @@ A live website built for a dry cleaning startup, giving the business an online p
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-soni-013b9431a)
-[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=icloud&logoColor=white)](mailto:ashutosh_soni@icloud.com)
+[![Email](https://img.shields.io/badge/Email-7DD3FC?style=for-the-badge&logo=icloud&logoColor=white)](mailto:ashutosh.soni4224@gmail.com)
 
 </div>
 
