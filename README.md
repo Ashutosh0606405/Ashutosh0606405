@@ -8,7 +8,7 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-7DD3FC?style=for-the-badge&logoColor=white)
+![Open to Work](https://img.shields.io/badge/www.linkedin.com/in/ashutosh-soni-013b9431a)
 ![Profile Views](https://komarev.com/ghpvc/?username=Ashutosh0606405&color=7DD3FC&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Ashutosh0606405?label=Followers&style=for-the-badge&color=7DD3FC)
 
